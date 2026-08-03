@@ -2,4 +2,4 @@
 
 Web Development
 
-Live site: https://YOUR-USERNAME.github.io/pastrana_jayangelo/
+Live site: https://jangelo-pastrana-compro.github.iopastrana_jayangelo/

@@ -1,0 +1,11 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+destkop.ini
+
+#Editor Files
+.vscode/
+
+#Temporary files
+*.tmp
+*.log
